@@ -1,0 +1,14 @@
+**** Installation ***
+
+You must have Node on your device 
+also please check the version of npm
+is it properly installed ???
+
+===> Just run the command in root direct where the package.json is located
+"npm install"
+Note: without quotation mark ""
+
+once it done
+run the command 
+"npm start"
+Note: without quotation mark ""
